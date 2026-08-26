@@ -2,7 +2,7 @@
 
 FEAST is a lightweight framework for collaborative protein sequence optimization with a frozen ESMC-600M protein language model.
 
-It enables multiple clients to contribute property-specific steering information without sharing raw protein sequences or jointly training model parameters.
+It enables multiple clients to contribute property-specific steering information without sharing raw protein sequences or jointly training model parameters. Datasets can be found in the google drive link here: https://drive.google.com/drive/folders/1MZnz0Dm9meX6eK2o8ahrBr27YopEkMTF?usp=share_link
 
 ## Workflows
 
